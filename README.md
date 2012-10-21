@@ -1,4 +1,6 @@
-learn_addressbook
+learn-addressbook
 =================
 
-This is a little work to learn python parsing csv file
+Ce script est avant tout pour apprendre à programmer en python.
+
+À terme il permettra de parser un fichier CSV qui contiendra un carnet d'adresses.
